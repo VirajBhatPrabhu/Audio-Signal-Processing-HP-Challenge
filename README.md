@@ -10,5 +10,5 @@ For the dataset please click <a href="https://www.kaggle.com/datasets/kenjee/z-b
 <br>
 <br>
 <h3>The Task</h3>
-<h5>The Challenge is to build a Machine Learning model and code to count the number of Capuchinbird calls within a given clip</h5>
+The Challenge is to build a Machine Learning model and code to count the number of Capuchinbird calls within a given clip
 
