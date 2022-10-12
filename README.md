@@ -1,8 +1,10 @@
-<h1>Audio-Signal-Processing-HP-Challenge</h1>
+<h1>Audio-Signal-Processing Using Deep Learning</h1>
+Z by HP Unlocked Challenge 3 - Audio Recognition
+
+In this project we find the density of capuchin bird calls inside an audio clip using a convolutional neural network
 <br>
 
 <h2>About Dataset</h2>
-Z by HP Unlocked Challenge 3 - Audio Recognition
 
 The dataset is created by :- Ken Jee and Hunter kempf
 
