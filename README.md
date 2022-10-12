@@ -4,7 +4,7 @@ Z by HP Unlocked Challenge 3 - Audio Recognition
 
 <h2>The Task</h2>
 
-The Challenge is to build a Machine Learning model and code to count the number of Capuchinbird calls within a given clip
+The Challenge is to build a model and code to count the number of Capuchinbird calls within a given clip
 <br>
 
 <h2>About Dataset</h2>
